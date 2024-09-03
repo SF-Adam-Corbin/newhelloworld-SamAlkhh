@@ -2,7 +2,7 @@
 print("Hello world!")
 
 
-def Hello():
+def variable_name():
   # Create a variable that has the value of "Hello world!" so that the function will return the appropriate value.
-  Hello = "Hello world!"
-  return Hello
+  variable_name = "Hello world!"
+  return variable_name
