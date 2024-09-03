@@ -2,7 +2,8 @@
 print("Hello world!")
 
 
-def gloob():
+def hello_world():
   # Create a variable that has the value of "Hello world!" so that the function will return the appropriate value.
-  variable_name = "Hello world!"
-  return variable_name
+  hihi = "Hello world!"
+  print(hihi)
+  return hihi
